@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "02_cli_primitive_db",
+  "version": "1.0.0",
+  "description": "A primitive db like cli app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/Xepobopa",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
