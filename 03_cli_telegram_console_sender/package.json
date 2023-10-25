@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "03_cli_telegram_console_sender",
+  "version": "1.0.0",
+  "description": "ask owner for env variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima Ivanov @xepobopa_off",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xepobopa/serverless-academy/issues"
+  },
+  "homepage": "https://github.com/Xepobopa/serverless-academy/tree/main#readme",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
